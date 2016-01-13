@@ -1,0 +1,28 @@
+name: Chicago
+favicon: null
+layout_spectrum: 0.8135266695171595
+typography_spectrum: 0.7383388564921916
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.6765776290558279
+  lightness: 0.25549193751066923
+  saturation: 0.5364138453733176
+  rhythmicContrast: 0.8449412863701582
+purpose: []
